@@ -1,5 +1,3 @@
-package ejercicioslistas;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
